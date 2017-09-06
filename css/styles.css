@@ -14,4 +14,10 @@ p.today {
 .subliminal {
   font-style: italic;
   font-size: 80%
-  }
+}
+
+body{
+  background-color: #99e6ff;
+  text-align: center;
+
+}
