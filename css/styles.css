@@ -15,9 +15,22 @@
   color: green;
 }
 
+img.main {
+  float: left;
+}
+
 body{
   background-color: #99e6ff;
   text-align: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.sidebar {
+  float:right;
 }
 
 .best {
