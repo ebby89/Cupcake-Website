@@ -1,0 +1,17 @@
+p.buy {
+  font-size: 16px;
+  color: blue;
+  font-weight: bold;
+  }
+
+p.today {
+  font-size: 150%;
+  color: red;
+  font-weight: bolder;
+  font-variant: small-caps;
+}
+
+.subliminal {
+  font-style: italic;
+  font-size: 80%
+  }
