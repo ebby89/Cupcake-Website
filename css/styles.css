@@ -1,23 +1,32 @@
-p.buy {
-  font-size: 16px;
-  color: blue;
-  font-weight: bold;
-  }
-
-p.today {
-  font-size: 150%;
+.flashy {
   color: red;
-  font-weight: bolder;
-  font-variant: small-caps;
+  font-style: italic;
+  font-size: 120%
+}
+
+.test {
+  color: blue;
 }
 
 .subliminal {
   font-style: italic;
-  font-size: 80%
+  font-size: 80%;
+  font-weight: bold;
+  color: green;
 }
 
 body{
   background-color: #99e6ff;
   text-align: center;
+}
 
+.best {
+  color: blue;
+  font-stretch: expanded;
+  font-weight: bold;
+  font-size: 150%
+}
+
+.important {
+  font-family: cursive;
 }
